@@ -1,0 +1,313 @@
+App running in production
+Database Connected
+Resyncing Done.....
+body fromn controller
+body fromn controller
+Line 53: [ { Admin_ID: [33m1[39m, Admin_Name: [32m'admin'[39m, Admin_Password: [32m'admin'[39m } ]
+in else
+Line 53: [ { Admin_ID: [33m1[39m, Admin_Name: [32m'admin'[39m, Admin_Password: [32m'admin'[39m } ]
+in else
+token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwiaWF0IjoxNzE4ODkzNDQzfQ.gErzD6wzkFR1A0j2aOtBwToY49ldk4kDtys9DKbSNfM
+[48;2;252;50;88m[38;2;0;0;0m[1mError:[22m[39m[49m 	 [35m[20/05/2024 19:54:03:923][39m	[38;2;247;62;77m:Error in authenticate student middleware!user obj not found!![39m
+
+Admin Login Tokn  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwiaWF0IjoxNzE4ODkzNDQzfQ.gErzD6wzkFR1A0j2aOtBwToY49ldk4kDtys9DKbSNfM
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+admin
+token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwiaWF0IjoxNzE4ODkzNDQzfQ.gErzD6wzkFR1A0j2aOtBwToY49ldk4kDtys9DKbSNfM
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+{ Passed_out_year: [32m'2023'[39m }
+[
+  [],
+  {
+    Total_Placed: [33m0[39m,
+    Placement: [33mNaN[39m,
+    Male: [33m0[39m,
+    Female: [33m0[39m,
+    Average_Salary: [33mNaN[39m,
+    Median_Salary: [33mNaN[39m,
+    Max_Salary: [33m0[39m,
+    Min_Salary: [33m100000000[39m,
+    Total_Salary: [33m0[39m
+  }
+]
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Admin Login Tokn  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwiaWF0IjoxNzE4ODkzNDQzfQ.gErzD6wzkFR1A0j2aOtBwToY49ldk4kDtys9DKbSNfM
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+admin
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+[Object: null prototype] {}
+[Object: null prototype] {}
+Here1
+qc4QrhGdKBF%&gm%
+U2FsdGVkX1/f8l4przZtbpXiNPqj7ovExAn4a/hjQTwY6Nz23FCkbsy2b50UDsG3
+44uT5GU@Dvd7tTeA
+U2FsdGVkX1+iKanoGoNkLV617QO4Tu4VndpCgOT8apE6Le4OPRWDSKVeRz0h/r6R
+D%xBBKiG2leTeu2n
+U2FsdGVkX1/Udf1lSwrAznxELoTWIMM124EhJW+pefGJsEHWp+fExLAF3afKFP3P
+ZhDr9bJTH6g@zg&@
+U2FsdGVkX1+8BxyQS8rYJAoCBUl6tE/xs3Qkx8nFqpzlJsrvqJHDg2a3WYJgJ9aS
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Here
+19CEUON133 D%xBBKiG2leTeu2n
+Student Id 19CEUON133
+Student Id 19CEUON133
+[
+  UserLogin {
+    dataValues: {
+      id: [33m3[39m,
+      LoginId: [32m'19CEUON133'[39m,
+      Password: [32m'34a6d33a47174dccbe447d5b2ce769890b9f81044ea4d697d7de57ec6c03e6ba'[39m,
+      IsFirstTime: [33mtrue[39m
+    },
+    _previousDataValues: {
+      id: [33m3[39m,
+      LoginId: [32m'19CEUON133'[39m,
+      Password: [32m'34a6d33a47174dccbe447d5b2ce769890b9f81044ea4d697d7de57ec6c03e6ba'[39m,
+      IsFirstTime: [33mtrue[39m
+    },
+    uniqno: [33m1[39m,
+    _changed: Set(0) {},
+    _options: {
+      isNewRecord: [33mfalse[39m,
+      _schema: [1mnull[22m,
+      _schemaDelimiter: [32m''[39m,
+      raw: [33mtrue[39m,
+      attributes: [36m[Array][39m
+    },
+    isNewRecord: [33mfalse[39m
+  },
+  Password: [32m'700768ae1c0884a170199d1102d6c5e8c9dbcf3ceb96071ed11a8b623e8a7cce'[39m,
+  IsFirstTime: [33mfalse[39m
+]
+19CEUON133 Jenil@29=001
+Error in generating token!
+[48;2;252;50;88m[38;2;0;0;0m[1mError:[22m[39m[49m 	 [35m[20/05/2024 20:04:17:561][39m	[38;2;247;62;77m:Error in generating token![39m
+
+19CEUON133 Jenil@2001
+19CEUON133
+19CEUON133
+[]
+19CEUON133
+19CEUON133
+[]
+[Object: null prototype] {}
+[Object: null prototype] {}
+19CEUON133
+19CEUON133
+Admin Login Tokn  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwiaWF0IjoxNzE4ODkzNDQzfQ.gErzD6wzkFR1A0j2aOtBwToY49ldk4kDtys9DKbSNfM
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+admin
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+from create announcement :  [Object: null prototype] {
+  Company_ID: [32m'1'[39m,
+  Date_of_announcement: [32m'Thu Jun 20 2024 20:06:11 GMT+0530 (India Standard Time)'[39m,
+  Date_of_Visit: [32m'Thu Jun 20 2024 20:06:11 GMT+0530 (India Standard Time)'[39m,
+  Eligible_Branches: [32m'CE'[39m,
+  Passed_out_year: [32m'Tue Jun 20 2023 20:06:15 GMT+0530 (India Standard Time)'[39m,
+  Job_Role: [32m'SDE Intern'[39m,
+  Salary: [32m''[39m,
+  Job_Location: [32m''[39m,
+  Bond_Details: [32m''[39m,
+  Other_Details: [32m''[39m,
+  Registration_Deadline: [32m'null'[39m,
+  Eligibility: [32m''[39m,
+  sendMail: [32m'false'[39m,
+  Job_Preferences: [32m''[39m,
+  Additional_Fields: [32m''[39m
+}
+[48;2;252;50;88m[38;2;0;0;0m[1mError:[22m[39m[49m 	 [35m[20/05/2024 20:06:30:782][39m	[38;2;247;62;77m:SequelizeDatabaseError: Incorrect datetime value: 'Invalid date' for column 'Registration_Deadline' at row 1[39m
+
+1
+
+
+
+
+[33mtrue[39m
+Error from createdAnnoucement controller. Status returned false.
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+from create announcement :  [Object: null prototype] {
+  Company_ID: [32m'1'[39m,
+  Date_of_announcement: [32m'Thu Jun 20 2024 20:06:11 GMT+0530 (India Standard Time)'[39m,
+  Date_of_Visit: [32m'Thu Jun 20 2024 20:06:11 GMT+0530 (India Standard Time)'[39m,
+  Eligible_Branches: [32m'CE'[39m,
+  Passed_out_year: [32m'Tue Jun 20 2023 20:06:15 GMT+0530 (India Standard Time)'[39m,
+  Job_Role: [32m'SDE Intern'[39m,
+  Salary: [32m''[39m,
+  Job_Location: [32m''[39m,
+  Bond_Details: [32m''[39m,
+  Other_Details: [32m''[39m,
+  Registration_Deadline: [32m'Thu Jun 27 2024 20:31:36 GMT+0530 (India Standard Time)'[39m,
+  Eligibility: [32m''[39m,
+  sendMail: [32m'false'[39m,
+  Job_Preferences: [32m''[39m,
+  Additional_Fields: [32m''[39m
+}
+FileName [90mundefined[39m
+[]
+1
+
+
+
+
+[33mtrue[39m
+Admin Login Tokn  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwiaWF0IjoxNzE4ODkzNDQzfQ.gErzD6wzkFR1A0j2aOtBwToY49ldk4kDtys9DKbSNfM
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+19CEUON133
+admin
+[33m1[39m
+Admin Login Tokn  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwiaWF0IjoxNzE4ODkzNDQzfQ.gErzD6wzkFR1A0j2aOtBwToY49ldk4kDtys9DKbSNfM
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Responding from here
+[33m1[39m
+Responding from here
+[
+  BranchAnnouncement {
+    dataValues: { id: [33m1[39m, AnnouncementId: [32m'1'[39m, BranchName: [32m'CE'[39m },
+    _previousDataValues: { id: [33m1[39m, AnnouncementId: [32m'1'[39m, BranchName: [32m'CE'[39m },
+    uniqno: [33m1[39m,
+    _changed: Set(0) {},
+    _options: {
+      isNewRecord: [33mfalse[39m,
+      _schema: [1mnull[22m,
+      _schemaDelimiter: [32m''[39m,
+      raw: [33mtrue[39m,
+      attributes: [36m[Array][39m
+    },
+    isNewRecord: [33mfalse[39m
+  }
+]
+job preference data in req.body :  { JobPreferences: [], AdditionalData: {} }
+[33m1[39m
+jenilgandhi2111@gmail.com
+status  :  { status: [33mtrue[39m }
+Some error
+HJERELKNDKNKLSNKLNFKLNSLKNLKFNLKFNSLKNFLKSNFLK
+{ status: [33mtrue[39m, data: { JobPreference: [1mnull[22m, additionaldata: [1mnull[22m } }
+Admin Login Tokn  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwiaWF0IjoxNzE4ODkzNDQzfQ.gErzD6wzkFR1A0j2aOtBwToY49ldk4kDtys9DKbSNfM
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+admin
+[33m1[39m
+Admin Login Tokn  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwiaWF0IjoxNzE4ODkzNDQzfQ.gErzD6wzkFR1A0j2aOtBwToY49ldk4kDtys9DKbSNfM
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+[33m1[39m
+[
+  BranchAnnouncement {
+    dataValues: { id: [33m1[39m, AnnouncementId: [32m'1'[39m, BranchName: [32m'CE'[39m },
+    _previousDataValues: { id: [33m1[39m, AnnouncementId: [32m'1'[39m, BranchName: [32m'CE'[39m },
+    uniqno: [33m1[39m,
+    _changed: Set(0) {},
+    _options: {
+      isNewRecord: [33mfalse[39m,
+      _schema: [1mnull[22m,
+      _schemaDelimiter: [32m''[39m,
+      raw: [33mtrue[39m,
+      attributes: [36m[Array][39m
+    },
+    isNewRecord: [33mfalse[39m
+  }
+]
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Admin Login Tokn  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwiaWF0IjoxNzE4ODkzNDQzfQ.gErzD6wzkFR1A0j2aOtBwToY49ldk4kDtys9DKbSNfM
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+[
+  {
+    id: [33m1[39m,
+    Announcement_ID: [33m1[39m,
+    Student_ID: [32m'19CEUON133'[39m,
+    Job_Preferences: [1mnull[22m,
+    AdditionalData: [1mnull[22m
+  }
+]
+students :  [
+  {
+    studentDetails: {
+      id: [33m3[39m,
+      Student_ID: [32m'19CEUON133'[39m,
+      FirstName: [32m'Jenil'[39m,
+      MiddleName: [32m'j'[39m,
+      LastName: [32m'Gandhi'[39m,
+      Admission_type: [32m'Normal'[39m,
+      Cast_category: [32m'General'[39m,
+      Gender: [32m'Male'[39m,
+      DOB: [32m'2001-03-01T00:00:00.000Z'[39m,
+      SSC_Percentage: [33m85.59[39m,
+      SSC_Percentile: [33m95.97[39m,
+      SSC_Board: [32m'GSEB'[39m,
+      SSC_School: [32m'GTG'[39m,
+      HSC_Percentage: [33m80.59[39m,
+      HSC_Percentile: [33m95.97[39m,
+      HSC_Board: [32m'GSEB'[39m,
+      HSC_School: [32m'GTG'[39m,
+      IsD2D: [32m'FALSE'[39m,
+      Diploma_Result_CPI: [33m0[39m,
+      Diploma_Result_Percentage: [33m0[39m,
+      Diploma_College_Name: [32m'NOT APPLICABLE'[39m,
+      Diploma_University: [32m'NOT APPLICABLE'[39m,
+      Sem_1_SPI: [33m9.5[39m,
+      Sem_2_SPI: [33m9.2[39m,
+      Sem_3_SPI: [33m9.1[39m,
+      Sem_4_SPI: [33m9.1[39m,
+      Sem_5_SPI: [33m9.2[39m,
+      Sem_6_SPI: [33m9.1[39m,
+      Sem_7_SPI: [33m9[39m,
+      Sem_8_SPI: [33m9.5[39m,
+      Current_CPI: [33m9.5[39m,
+      Enrollment_year: [32m'2019-01-01T00:00:00.000Z'[39m,
+      Passed_out_year: [32m'2023-01-01T00:00:00.000Z'[39m,
+      Email_ID: [32m'jenilgandhi2111@gmail.com'[39m,
+      Contact_No_1: [32m'1234567890'[39m,
+      Contact_No_2: [32m'987654321'[39m,
+      Address: [32m'gujarat'[39m,
+      City: [32m'vadodara'[39m,
+      Pin_Code: [33m390021[39m,
+      Current_semester: [33m6[39m,
+      Career_Preference: [32m'Placement'[39m,
+      CV_Upload: [32m'image.png'[39m,
+      Student_Photo: [32m'/public/student_details/Photo/19CEUON133-56af15c9844eae0c5c3fa91f61d9b9494e11537a.svg'[39m,
+      Branch_Id: [32m'CE'[39m
+    },
+    jobPreferences: [1mnull[22m,
+    additionalData: [1mnull[22m
+  }
+]
+[33m1[39m
+[
+  BranchAnnouncement {
+    dataValues: { id: [33m1[39m, AnnouncementId: [32m'1'[39m, BranchName: [32m'CE'[39m },
+    _previousDataValues: { id: [33m1[39m, AnnouncementId: [32m'1'[39m, BranchName: [32m'CE'[39m },
+    uniqno: [33m1[39m,
+    _changed: Set(0) {},
+    _options: {
+      isNewRecord: [33mfalse[39m,
+      _schema: [1mnull[22m,
+      _schemaDelimiter: [32m''[39m,
+      raw: [33mtrue[39m,
+      attributes: [36m[Array][39m
+    },
+    isNewRecord: [33mfalse[39m
+  }
+]
+Admin Login Tokn  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwiaWF0IjoxNzE4ODkzNDQzfQ.gErzD6wzkFR1A0j2aOtBwToY49ldk4kDtys9DKbSNfM
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+[33m1[39m
+[
+  BranchAnnouncement {
+    dataValues: { id: [33m1[39m, AnnouncementId: [32m'1'[39m, BranchName: [32m'CE'[39m },
+    _previousDataValues: { id: [33m1[39m, AnnouncementId: [32m'1'[39m, BranchName: [32m'CE'[39m },
+    uniqno: [33m1[39m,
+    _changed: Set(0) {},
+    _options: {
+      isNewRecord: [33mfalse[39m,
+      _schema: [1mnull[22m,
+      _schemaDelimiter: [32m''[39m,
+      raw: [33mtrue[39m,
+      attributes: [36m[Array][39m
+    },
+    isNewRecord: [33mfalse[39m
+  }
+]

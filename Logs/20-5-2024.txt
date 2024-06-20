@@ -1,0 +1,40 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[48;2;252;50;88m[38;2;0;0;0m[1mError:[22m[39m[49m 	 [35m[20/05/2024 19:54:03:922][39m	[38;2;247;62;77m:Error in authenticate student middleware!user obj not found!![39m
+[48;2;252;50;88m[38;2;0;0;0m[1mError:[22m[39m[49m 	 [35m[20/05/2024 20:04:17:560][39m	[38;2;247;62;77m:Error in generating token![39m
+[48;2;252;50;88m[38;2;0;0;0m[1mError:[22m[39m[49m 	 [35m[20/05/2024 20:06:30:781][39m	[38;2;247;62;77m:SequelizeDatabaseError: Incorrect datetime value: 'Invalid date' for column 'Registration_Deadline' at row 1[39m

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkjenil_keval_rikin_template=self.webpackChunkjenil_keval_rikin_template||[]).push([[915],{20915:function(e,n,i){i.r(n),i.d(n,{default:function(){return a}});i(72791);var l=i(23735),t=i(80184);function a(){return(0,t.jsx)(l.Z,{title:"Keval Page",children:(0,t.jsx)("h1",{children:"Keval D Gandevia"})})}}}]);
+//# sourceMappingURL=915.37d14082.chunk.js.map
